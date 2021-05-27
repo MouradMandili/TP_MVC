@@ -1,3 +1,6 @@
+<?php
+    require '../MODEL/Log.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
